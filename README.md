@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasritha</h1>
-<h3 align="center">A Project management specialist</h3>
+<h3 align="center">Transforming Insights into Business Success </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasritha08&label=Profile%20views&color=0e75b6&style=flat" alt="Hasritha08" /> </p>
 
