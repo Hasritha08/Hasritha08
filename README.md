@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasritha08](https://github.com/Hasritha08)
 
-- 💬 Ask me about **Project Management, Business Analysis, Data Analysis **
+- 💬 Ask me about ** Data Analysis, Project Management, Business Analysis **
 
 - 📫 How to reach me **hasrithap5@gmail.com**
 
