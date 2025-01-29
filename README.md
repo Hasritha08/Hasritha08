@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasritha</h1>
-<h3 align="center">Transforming Insights into Business Success </h3>
+<h3 align="center">**Building Scalable Solutions | Transforming Data & Code into Business Impact** </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hasritha08&label=Profile%20views&color=0e75b6&style=flat" alt="Hasritha08" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasritha08](https://github.com/Hasritha08)
 
-- 💬 Ask me about ** Data Analysis, Project Management, Business Analysis **
+- 💬 Ask me about ** Full-Stack Development, ETL & Data Pipelines, Cloud & Databases, Data Processing & APIs, Project Management **
 
 - 📫 How to reach me **hasrithap5@gmail.com**
 
