@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** Full-Stack Development, ETL & Data Pipelines, Cloud & Databases, Data Processing & APIs, Project Management **
 
-- 📫 How to reach me **hasrithap5@gmail.com**
+- 📫 How to reach me **hasritha82910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
