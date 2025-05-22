@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasritha08](https://github.com/Hasritha08)
 
-- 💬 Ask me about ** Full-Stack Development, ETL & Data Pipelines, Cloud & Databases, Data Processing & APIs, Project Management **
+- 💬 Ask me about ** Project Management, Full-Stack Development, ETL & Data Pipelines, Cloud & Databases, Data Processing & APIs **
 
 - 📫 How to reach me **hasrr1928@gmail.com**
 
